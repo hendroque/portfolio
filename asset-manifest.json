@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.778eeed7.css",
+    "main.js": "/portfolio/static/js/main.8f1160b0.js",
+    "static/js/787.4b24f717.chunk.js": "/portfolio/static/js/787.4b24f717.chunk.js",
+    "static/media/hendroport.png": "/portfolio/static/media/hendroport.d065521ace137239424a.png",
+    "static/media/hashirshoaeb.png": "/portfolio/static/media/hashirshoaeb.23e8b5a1f7de87f03d05.png",
+    "index.html": "/portfolio/index.html",
+    "main.778eeed7.css.map": "/portfolio/static/css/main.778eeed7.css.map",
+    "main.8f1160b0.js.map": "/portfolio/static/js/main.8f1160b0.js.map",
+    "787.4b24f717.chunk.js.map": "/portfolio/static/js/787.4b24f717.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.778eeed7.css",
+    "static/js/main.8f1160b0.js"
+  ]
+}
